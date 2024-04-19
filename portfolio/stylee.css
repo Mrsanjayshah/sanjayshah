@@ -1,0 +1,40 @@
+#div1{
+    background-color:  rgb(5, 5, 40);
+    width: 25%;
+    float: right;
+    height: 1200px;
+    color:rgb(5, 5, 40) ;
+}
+#div2{
+    background-color: rgb(5, 5, 40);
+    width: 25%;
+    float: left;
+    height: 1200px;
+    color:rgb(5, 5, 40) ;
+}
+#div3{
+    background-color:  rgb(5, 5, 40);
+    width: 50%;
+    margin: 0 auto;
+    height: 1200px;
+    
+}
+img{
+    margin-top: 50px;
+}
+.btn{
+    display: block;
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid red;
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: white;
+    transition: background 0.5s;
+    margin-top: 25px;
+
+}
+.btn:hover{
+    background-color: red;
+}
